@@ -22,7 +22,8 @@ My spirit finds resonance in erecting mighty systems through the sacred rites of
 *Praise the code.* 🌞
 
 
-((# Hello! 👋
+--------------------------------------------------------------------------------------------------------------------------------
+# Hello! 👋
 
 I am a student studying computer engineering and technical disciplines. I focus on software development, database management, and network systems.
 
@@ -41,4 +42,4 @@ I particularly enjoy building systems with Object-Oriented Programming (OOP) and
 * Comprehensive OOP projects, such as bank account management systems.
 * Developing relational databases with data analysis capabilities for systems like music stores.
 * Developing Java-based game projects and packaging them into executable (.exe) files.
-* Conducting data communication experiments by analyzing network protocols.))
+* Conducting data communication experiments by analyzing network protocols.
