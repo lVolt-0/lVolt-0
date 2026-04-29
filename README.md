@@ -1,6 +1,6 @@
 # Hail, Traveler of the Digital Abyss. 🗡️🔥
 
-I am but a humble scholar traversing the Grand Archives of Computation. I seek to master the arcane arts of software forging, the tending of vast data repositories, and the weaving of unseen ethereal networks. I strive to transmute the ancient lore of micro-processors, logic circuits, and discrete mathematics into tangible, functioning realms.
+I am but a humble scholar traversing the Grand Archives of Computation. I seek to master the arcane arts of software forging, the tending of vast data repositories, and the weaving of unseen ethereal networks.
 
 My spirit finds resonance in erecting mighty systems through the sacred rites of Object-Oriented Programming (OOP) and architecting labyrinthine database structures. Moreover, I am drawn to the creation of illusory realms (game development) and the forging of digital visages and armaments for spectral champions.
 
@@ -24,7 +24,7 @@ My spirit finds resonance in erecting mighty systems through the sacred rites of
 
 ((# Hello! 👋
 
-I am a student studying computer engineering and technical disciplines. I focus on software development, database management, and network systems. I enjoy turning my theoretical background (microprocessors, logic circuits, and discrete mathematics) into practical projects.
+I am a student studying computer engineering and technical disciplines. I focus on software development, database management, and network systems.
 
 I particularly enjoy building systems with Object-Oriented Programming (OOP) and designing complex database architectures. Additionally, game development, digital character design, and visual manipulation for games are among my special interests.
 
